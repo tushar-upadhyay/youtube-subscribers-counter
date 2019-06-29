@@ -1,0 +1,35 @@
+body {
+  background: skyblue;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.footer {
+  bottom: 0;
+  height: 60px;
+}
+#btn {
+  margin-top: 10px;
+  height: 40px;
+}
+#imgs {
+  margin-top: 10px;
+}
+.para {
+  margin-top: 100px;
+}
+.an {
+  margin-top: 10px;
+  color: white;
+}
+#loader {
+  margin-top: 50px;
+  height: 350px;
+}
+#futureform {
+  width: 250px;
+}
+#foot {
+  margin-top: 50%;
+}

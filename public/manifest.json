@@ -1,0 +1,42 @@
+{
+  "name": "Youtube Subscribers counter",
+  "short_name": "youtube Subs counter",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/t2t4pSW/mx-player-icon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "https://i.ibb.co/tQqf25F/mx-player-icon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://i.ibb.co/M5qm4JH/mx-player-icon-128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://archive.org/download/mx-player-icon/mx-player-icon.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "https://archive.org/download/mx-player-icon/mx-player-icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://i.ibb.co/r70g1jk/mx-player-icon-1024x1024.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "description": "A React App to fetch Live Subscribers",
+  "start_url": "/s/?utm_source=homescreen",
+  "scope": "/s/",
+  "display": "standalone",
+  "background_color": "#1C2022",
+  "theme_color": "#6CAEDD"
+}
