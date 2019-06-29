@@ -10,7 +10,7 @@ var data = {
   types: "search?part=snippet&q=",
   typel: "channels?part=statistics&id=",
   APIkey:
-    "&type=channel&key=AIzaSyC2GEnpTx4pYgu3q7yKnx_9kwmcceCOcHI&maxResults=1"
+    "&type=channel&key=<Api-Key>&maxResults=1"
 };
 class Count extends React.Component {
   constructor(props) {
